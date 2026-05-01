@@ -1,31 +1,55 @@
-# Built things
-_Debug/
-Compiled/
+# ============================================================
+# OS / IDE
+# ============================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vs/
+.vscode/
+.idea/
+*.sln
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.log
 
-# AudioCache can be rebuilt from sources
-AudioCache/
+# ============================================================
+# Unity generated folders
+# ============================================================
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+# Unity local builds
+**/[Bb]uilds/
+**/[Ll]ocal[Bb]uilds/
+# Unity crash reports
+sysinfo.txt
 
-# Lockfile
-_OpenInEditor.lock
+# ============================================================
+# Unreal Engine generated folders
+# ============================================================
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+# Unreal generated files
+*.opensdf
+*.sdf
+*.sln
+*.VC.db
+*.VC.opendb
+*.xcodeproj
 
-# User settings
-Game.agf.user
-*.crm.user
-
-# Backups
-Game.agf.bak
-backup_acsprset.spr
-
-# Memory dumps
-*.dmp
-
-# Temporary files
-# temporarily created during sprite or room background compression
-~aclzw.tmp
-# temporary, main game data, before getting packed into exe
-game28.dta
-# temporary build of the game before being moved to Compiled/ folder
-*.exe
-
-# Log files
-warnings.log
+# ============================================================
+# Local exported builds
+# ============================================================
+local-builds/
+exported-builds/
+*.apk
+*.aab
+*.ipa
