@@ -26,10 +26,10 @@ https://BLRochaGonzalez93.github.io
 
 ## Proyectos destacados
 
-| Proyecto | Motor | Lenguaje | Descripción| Estado | Codigo | Build |
-|---|---|---|---|---|---|
-| Third Person Controller | Unity | C# | Proyecto gameplay en desarrollo| Jugable | Repositorio | Release |
-| Inventory System | Unity | C# | Prototipo técnico en desarrollo| En desarrollo | Repositorio | No disponible |
+| Proyecto | Motor | Lenguaje | Descripción| Estado | Codigo | Build |  
+|---|---|---|---|---|---|  
+| Third Person Controller | Unity | C# | Proyecto gameplay en desarrollo| Jugable | Repositorio | Release |  
+| Inventory System | Unity | C# | Prototipo técnico en desarrollo| En desarrollo | Repositorio | No disponible |  
 | Action Prototype | Unreal | C++ / Blueprints | Demo de juego | Jugable | Repositorio | Release |
 
 ## Estructura
