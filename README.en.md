@@ -17,29 +17,11 @@ This repository serves two main purposes:
 The visual version of the portfolio is available on GitHub Pages:
 https://BLRochaGonzalez93.github.io
 
-## Main areas
-
-- [Unity](./01_Unity/README.md)
-- [Unreal Engine](./02_Unreal/README.md)
-- [Shared GameDev Knowledge](./03_Shared_GameDev_Knowledge/README.md)
-- [Code Snippets](./04_Code_Snippets/README.md)
-
 ## Featured projects
 
 | Project | Engine | Language | Description | Status | Code | Build |  
 |---|---|---|---|---|---|---|  
-| Third Person Controller | Unity | C# | Gameplay project in development | Playable | Repository | Release |  
-| Inventory System | Unity | C# | Technical prototype in development | In development | Repository | Not available |  
-| Action Prototype | Unreal | C++ / Blueprints | Game Demo Project | Playable prototype | Playable | Repository | Release |
-
-## Structure
-- `00_Portfolio_Overview`: general information, skills, and roadmap.
-- `01_Unity`: Unity projects and systems.
-- `02_Unreal`: Unreal projects and systems.
-- `03_Case_Studies`: technical analysis of projects.
-- `04_Shared_GameDev_Knowledge`: shared knowledge.
-- `05_Code_Snippets`: reusable snippets.
-- `06_Media`: screenshots, diagrams, and visual resources.
+| 001_BrickBreaker_2D | Unity | C# | Playable Demo | Web BrickBreaker2D(https://blrochagonzalez93.github.io/projects/001-brick-breaker-2d.html) | Repository(https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D) | Release(https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0) |
 
 ## Technical skills
 
