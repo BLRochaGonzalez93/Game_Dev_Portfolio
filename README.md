@@ -21,7 +21,7 @@ https://BLRochaGonzalez93.github.io
 
 | Proyecto | Motor | Lenguaje | Estado | Web | Codigo | Build |  
 |---|---|---|---|---|---|  
-| 001_BrickBreaker_2D | Unity | C# | Demo Jugable | Web BrickBreaker2D(https://blrochagonzalez93.github.io/projects/001-brick-breaker-2d.html) | Repositorio(https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D) | Release(https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0) |  
+| 001_BrickBreaker_2D | Unity | C# | Demo Jugable | [Web BrickBreaker2D](https://blrochagonzalez93.github.io/projects/001-brick-breaker-2d.html) | [Repositorio](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D) | [Release](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0) |  
 
 ## Competencias técnicas
 
